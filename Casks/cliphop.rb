@@ -1,6 +1,6 @@
 cask "cliphop" do
   version "0.1.0"
-  sha256 "1447ae9bc18544ebd3c4b4e86301ae4672d32b67926478c9b3f1222cd8aa1ee0"
+  sha256 "96bb5eb54988152c27f049f6c2f8382db4ccf5b10fad1da5803db3f6ce328697"
 
   url "https://cliphop.org/releases/ClipHop-#{version}.dmg",
       verified: "cliphop.org/"
